@@ -1,8 +1,8 @@
-# DigitalHippo - A Modern Fullstack E-Commerce Marketplace for Digital Products
+# DigitalPanda - A Modern Fullstack E-Commerce Marketplace for Digital Products
 
 Built with the Next.js 14 App Router, tRPC, TypeScript, Payload & Tailwind
 
-![Project Image](https://github.com/joeljalaganchalappuram/Digital-Panda/blob/main/public/th)
+![Project Image](https://raw.githubusercontent.com/joeljalaganchalappuram/Digital-Panda/refs/heads/main/public/thumbnail.jpg)
 
 ## Features
 
