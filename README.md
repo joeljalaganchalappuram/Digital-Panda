@@ -2,7 +2,7 @@
 
 Built with the Next.js 14 App Router, tRPC, TypeScript, Payload & Tailwind
 
-![Project Image](https://github.com/joschan21/digitalhippo/blob/master/public/thumbnail.jpg)
+![Project Image](https://github.com/joeljalaganchalappuram/Digital-Panda/blob/main/public/th)
 
 ## Features
 
@@ -17,23 +17,20 @@ Built with the Next.js 14 App Router, tRPC, TypeScript, Payload & Tailwind
 - 🌟 Clean, modern UI using shadcn-ui
 - ✉️ Beautiful emails for signing up and after purchase
 - ✅ Admins can verify products to ensure high quality
-- ⌨️ 100% written in TypeScript
-- 🎁 ...much more
+
+
 
 ## Getting started
 
 To get started with this project, run
 
 ```bash
-  git clone https://github.com/joschan21/digitalhippo.git
+  https://github.com/joeljalaganchalappuram/Digital-Panda.git
 ```
 
 and copy the .env.example variables into a separate .env file, fill them out & and that's all you need to get started!
 
 
-## Acknowledgements
-
-- [Payload](https://link.joshtriedcoding.com/payload) for making this project possible
 
 ## License
 
